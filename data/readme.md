@@ -1,1 +1,1 @@
-This folder includes data supporting the conclusions of the article, "Examining the Episodic Context Account: Does retrieval practice enhance memory for context?"
+The .csv file contains data supporting the conclusions of the article, "Examining the Episodic Context Account: Does retrieval practice enhance memory for context?"
