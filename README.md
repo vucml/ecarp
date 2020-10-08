@@ -1,5 +1,10 @@
 # ecarp (episodic context account of retrieval practice)
-  Three experiments examining memory for episodic context (from encoding) after retrieval practice
+Data for 
+
+Hong, M., Polyn, S.M., Fazio, L.K. (2019). Examining the Episodic Context Account: Does retrieval practice enhance memory for context?. Hong, M. K., Polyn, S. M., & Fazio, L. K. (2019). Cognitive research: principles and implications, 4(1), 46. 
+https://link.springer.com/article/10.1186/s41235-019-0202-3
+
+Three experiments examining memory for episodic context (from encoding) after retrieval practice
 
 data/CRPI_context_mem_data.csv file contains the data supporting the conclusions of the article, "Examining the Episodic Context Account: Does retrieval practice enhance memory for context?"
 
