@@ -1,6 +1,6 @@
 # ecarp (episodic context account of retrieval practice)
 
-Data for Hong, M., Polyn, S. M., & Fazio, L. K. (2019). _Cognitive research: principles and implications, 4_(1), 46. https://link.springer.com/article/10.1186/s41235-019-0202-3
+Data for Hong, M., Polyn, S. M., & Fazio, L. K. (2019). _Cognitive research: principles and implications, 4_(1), 46. https://doi.org/10.1186/s41235-019-0202-3
 
 Three experiments examining memory for episodic context (from encoding) after retrieval practice
 
